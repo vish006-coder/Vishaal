@@ -1,0 +1,155 @@
+.parent{
+    width:400px;
+    height: 400px;;
+    background-color: blueviolet;
+    display: flex;
+    padding: 10px;
+    gap:10px;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+
+}
+.child1{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 7px;
+    padding: 7px;
+    flex-wrap: wrap;
+}
+
+.child2{
+    width: 100px;
+    height: 100px;
+    background-color:palegoldenrod;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 7px;
+    padding: 7px;
+    flex-wrap: wrap;
+}
+.child3{
+    width: 100px;
+    height: 100px;
+    background-color:seagreen ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 7px;
+    padding: 7px;
+    flex-wrap: wrap;
+}
+.child4{
+    width: 100px;
+    height: 100px;
+    background-color:palevioletred;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 7px;
+    padding: 7px;
+    flex-wrap: wrap;
+}
+.child5{
+    width: 100px;
+    height: 100px;
+    background-color:cornflowerblue;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 7px;
+    padding: 7px;
+    flex-wrap: wrap;
+}
+.grant1{
+    width: 20px;
+    height: 20px;
+    background-color: palevioletred;
+
+}
+.grant2{
+    width: 20px;
+    height: 20px;
+    background-color: palevioletred;
+
+}
+
+.grant3{
+    width: 20px;
+    height: 20px;
+    background-color: palevioletred;
+}
+
+.grant4{
+    width: 20px;
+    height: 20px;
+    background-color: palevioletred;
+
+}
+.grant5{
+    width: 20px;
+    height: 20px;
+    background-color: palevioletred;
+  
+}
+.grant2{
+    width: 20px;
+    height: 20px;
+    background-color: palevioletred;
+
+}
+
+.grant3{
+    width: 20px;
+    height: 20px;
+    background-color: palevioletred;
+}
+
+.grant4{
+    width: 20px;
+    height: 20px;
+    background-color: palevioletred;
+
+}
+.grant5{
+    width: 20px;
+    height: 20px;
+    background-color: palevioletred;
+  
+}
+.grant11{
+    width: 20px;
+    height: 20px;
+    background-color: cornflowerblue;
+
+}
+.grant21{
+    width: 20px;
+    height: 20px;
+    background-color: cornflowerblue;
+
+}
+
+.grant31{
+    width: 20px;
+    height: 20px;
+    background-color:cornflowerblue;
+}
+
+.grant41{
+    width: 20px;
+    height: 20px;
+    background-color: cornflowerblue;
+
+}
+.grant51{
+    width: 20px;
+    height: 20px;
+    background-color: cornflowerblue;
+  
+}
